@@ -1,9 +1,10 @@
 FEATURE: Basic greeting
 
 This file contains text to simulate application features.
-The basic greeting feature says: "Hello, World!"
+The basic greeting feature says: "Hello, World! Welcome to our application."
 
 FEATURE: User greeting
 
 This feature allows personalized greetings for specific users.
 When given a username, it will display: "Hello, [username]! Welcome to our application."
+If no username is provided, it will display: "Hello, Guest! Welcome to our application."
